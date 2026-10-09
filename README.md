@@ -38,6 +38,8 @@ AWS Certified Solutions Architect – Associate · AWS Certified AI Practitioner
 
 ### On GitHub
 
+<a href="https://github.com/krysnkem/activity-mirror"><img src="img/activity.png" alt="335 commits in private client repositories, by month" width="100%"></a>
+
 Most of my client code lives in private repositories. **[activity-mirror](https://github.com/krysnkem/activity-mirror)** explains my contribution graph: a dated, verifiable record of that private work, with no code.
 
 Public work: [archonit_crypto_app](https://github.com/krysnkem/archonit_crypto_app) (one listing app built three ways: vanilla, Riverpod and BLoC/Cubit) · [flutter_fake_store](https://github.com/krysnkem/flutter_fake_store) (e-commerce with BLoC, go_router and Freezed)
