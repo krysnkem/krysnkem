@@ -13,6 +13,29 @@ Lagos, Nigeria · UTC+1, overlapping all of Europe and US mornings · **open to 
 | **Jecco**: cooking-gas delivery (Jamaica) | Contracted by Anchor Bridge Consulting to build the customer and rider apps as **one Flutter codebase that ships as two apps**. The team went from first commit to production in four months. | Customer: [Google Play](https://play.google.com/store/apps/details?id=com.jecco.mobile.customer) · [App Store](https://apps.apple.com/us/app/jecco-gas-delivery/id6808539585)<br>Rider: [Google Play](https://play.google.com/store/apps/details?id=com.jecco.mobile.rider) |
 | **VineVolt**: EV charging (Nigeria) | I led the mobile engineering behind VineVolt, Vine Mobility's driver-facing EV charging app. I architected the product on the mobile side and built the shared core it grows on. | [Google Play](https://play.google.com/store/apps/details?id=com.vinemobility.vineapp) |
 
+**Jecco: customer app**
+
+<p>
+<img src="img/jecco-customer-home.jpg" width="150" alt="Jecco customer app: home">
+<img src="img/jecco-customer-tracking.jpg" width="150" alt="Jecco customer app: live delivery tracking">
+<img src="img/jecco-customer-payments.jpg" width="150" alt="Jecco customer app: checkout and payment">
+</p>
+
+**Jecco: rider app**
+
+<p>
+<img src="img/jecco-rider-home.jpg" width="150" alt="Jecco rider app: earnings home">
+<img src="img/jecco-rider-orders.jpg" width="150" alt="Jecco rider app: order flow">
+</p>
+
+**VineVolt**
+
+<p>
+<img src="img/vinevolt-stations.jpg" width="150" alt="VineVolt: charging stations near you">
+<img src="img/vinevolt-home.jpg" width="150" alt="VineVolt: home">
+<img src="img/vinevolt-scan-to-charge.jpg" width="150" alt="VineVolt: scan to charge">
+</p>
+
 Case studies: **[Jecco](https://christianonyisi.netlify.app/work/jecco/)** · **[VineVolt](https://christianonyisi.netlify.app/work/vinevolt/)** · [all work](https://christianonyisi.netlify.app)
 
 <sub>VineVolt is a product of Vine Mobility & Technologies Ltd. Jecco was delivered through Anchor Bridge Consulting.</sub>
